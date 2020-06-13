@@ -51,3 +51,4 @@ public class Resource {
         return ResponseEntity.ok(new AuthenticationResponse(jwt));
     }
 }
+
