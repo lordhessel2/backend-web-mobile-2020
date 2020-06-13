@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend-web-mobile-2020.iml" filepath="$PROJECT_DIR$/.idea/backend-web-mobile-2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webMobileBackend/webMobileBackend/webMobileBackend.iml" filepath="$PROJECT_DIR$/webMobileBackend/webMobileBackend/webMobileBackend.iml" />
+    </modules>
+  </component>
+</project>
